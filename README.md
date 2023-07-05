@@ -1,12 +1,12 @@
 <div align="center">
 
-# <span style="color: #4CAF50">👋 Hi, I’m Ayman Mamdouh Elsayed</span>
+# <span >👋 Hi, I’m Ayman Mamdouh Elsayed</span>
 
-### <span style="color: #555">A backend developer specializing in PHP and the Laravel framework</span>
+### <span >A backend developer specializing in PHP and the Laravel framework</span>
 
-<span style="color: #555">🌱 I’m currently learning advanced PHP and Laravel skills to enhance my development expertise.</span>
+<span >🌱 I’m currently learning advanced PHP and Laravel skills to enhance my development expertise.</span>
 
-<span style="color: #555">👀 I’m interested in web development and creating efficient backend solutions.</span>
+<span >👀 I’m interested in web development and creating efficient backend solutions.</span>
 
 <br>
 
